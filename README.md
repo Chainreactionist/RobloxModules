@@ -19,7 +19,7 @@ I'm using a service to apply this to every player and then fire my custom player
 
 # Code Snippet from before I moved to using OOP
 
-```
+```lua
 local PlayersTable = {}
 
 function ObjectHasPropertyPromise(object:Instance, prop)
